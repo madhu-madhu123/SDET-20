@@ -8,6 +8,14 @@ public class Sample1git
 	public void sample1git()
 	{
 		System.out.println("user 1st");
+		
+		
+		
+		
+		System.out.println("user 2nd");
+		
+		
+		
 	}
 
 }
