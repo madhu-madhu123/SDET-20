@@ -9,5 +9,6 @@ public class Demo
    {
 	   System.out.println(" new update");
 	   System.out.println("User update1");
+	   System.out.println("user udtaed 30");
    }
 }
